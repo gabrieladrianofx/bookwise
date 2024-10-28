@@ -1,0 +1,1 @@
+<h1 class="text-lg font-bold mt-2">Desculpe... Você não tem permissão para acessar esta página.</h1>
